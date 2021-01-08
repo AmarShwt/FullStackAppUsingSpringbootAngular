@@ -1,0 +1,13 @@
+package amar.jp;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class EmployeeFullStackProjectApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(EmployeeFullStackProjectApplication.class, args);
+	}
+
+}
